@@ -2,7 +2,7 @@
 # 💫 About Me!!
 🍀╰┈➤ 𝚈𝚒𝚘𝚜𝚑𝚒 𝙱𝚊𝚗𝚐𝚊𝚕𝚝𝚎𝚛<br>🍀╰┈➤ 𝚂𝚑𝚎/𝚑𝚎𝚛 <br>🍀╰┈➤  𝟸𝙾 𝚢𝚛 𝚘𝚕𝚍 𝚊𝚛𝚝𝚒𝚒𝟸𝚝 𝚊𝚗𝚍 𝚌𝚘𝚖𝚙𝚘𝟸𝚎𝚛<br>🍀╰┈➤ 𝙹𝚘𝚑𝚗 𝙴𝚐𝚋𝚎𝚛𝚝 𝚢𝚞𝚖𝚎𝟸𝚑𝚒𝚒𝚙𝚙𝚎𝚛 ⎚-⎚<br>🍀╰┈➤ 𝙱𝚊𝚝𝚝𝚊𝚝 𝚊𝚗𝚍 𝟸𝚘𝚕𝚕𝚞𝚡 𝚏𝚒𝚒𝚌𝚝𝚒𝚒𝚘𝚗𝚔𝚒𝚒𝚗
 
-<img width="1500" height="500" alt="imagen" src="https://github.com/user-attachments/assets/82769bec-6fb3-4455-bc9b-49cbb4cf6d41" />
+<img width="1500" height="500" src="https://github.com/user-attachments/assets/82769bec-6fb3-4455-bc9b-49cbb4cf6d41" />
 
 <div align="center">
   <h3>Details~</h3>
@@ -12,4 +12,6 @@
 <div align="center">
 <h3>𝙄𝙣𝙫𝙞𝙩𝙚 𝙩𝙤 𝙥𝙖𝙧𝙩𝙞𝙚𝙨: Ask ---𝙁𝙧𝙞𝙚𝙣𝙙 𝙧𝙚𝙦𝙪𝙚𝙨𝙩𝙨: Ask --- 𝙒𝙝𝙞𝙨𝙥𝙚𝙧𝙨: Ask<h3>
 
-<a href="yioshi.atabook.org">Sign my ata!</a>
+[Sign my Ata!](https://yioshi.atabook.org/)
+</div
+
